@@ -14,5 +14,3 @@ Crie um ambiente virtual (venv) e instale as dependências do arquivo requiremen
 
 ### 1. .env
 Crie um arquivo .env e preencha as variáveis de acordo com o arquivo .env-example
-
-**Parâmetros de Entrada:**
